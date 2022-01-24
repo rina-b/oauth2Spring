@@ -8,6 +8,7 @@ public class Oauth2SpringApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Oauth2SpringApplication.class, args);
+		System.out.println("jdhgkksjkjs");
 	}
 
 }
